@@ -61,7 +61,7 @@ public class SolarFrame extends MyFrame
 	public static void main(String[] args)
 	{
 		SolarFrame solar = new SolarFrame();
-		solar.lauchFrame();
+		solar.launchFrame();
 	}
 
 }

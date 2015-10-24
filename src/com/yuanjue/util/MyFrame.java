@@ -11,7 +11,7 @@ public class MyFrame extends Frame
 	 * 2015年10月23日上午9:39:32
 	 */
 	private static final long serialVersionUID = 1L;
-	public void lauchFrame()
+	public void launchFrame()
 	{
 		setSize(Constant.WIDTH, Constant.HEIGHT);
 		setLocation(100, 100);
