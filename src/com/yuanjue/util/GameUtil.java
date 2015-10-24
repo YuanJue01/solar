@@ -5,7 +5,10 @@ import java.awt.Toolkit;
 
 public class GameUtil
 {
-	private GameUtil(){}
+	private GameUtil()
+	{
+		
+	}
 	public static Image getImage(String imgPath)
 	{
 		return Toolkit.getDefaultToolkit().
