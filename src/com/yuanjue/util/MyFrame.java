@@ -6,10 +6,7 @@ import java.awt.event.WindowEvent;
 
 public class MyFrame extends Frame
 {
-	/**
-	 * @author 路锦博
-	 * 2015年10月23日上午9:39:32
-	 */
+
 	private static final long serialVersionUID = 1L;
 	public void launchFrame()
 	{

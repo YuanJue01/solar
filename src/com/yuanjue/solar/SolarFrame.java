@@ -9,10 +9,7 @@ import com.yuanjue.util.MyFrame;
 
 public class SolarFrame extends MyFrame
 {
-	/**
-	 * @author 路锦博
-	 * 2015年10月23日上午9:39:18
-	 */
+
 	private static final long serialVersionUID = 1L;
 	
 	Image bg = getImage("image/bg.jpg");
